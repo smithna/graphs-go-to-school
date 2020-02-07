@@ -1,0 +1,23 @@
+"_id","_labels","name","_start","_end","_type"
+"0",":Plant","Star Cactus",,,
+"1",":Animal","Kangaroo Rat",,,
+"20",":Plant","Grass",,,
+"21",":Animal","Rabbit",,,
+"22",":Plant","Cactus",,,
+"23",":Animal","Grasshopper",,,
+"24",":Animal","Lizard",,,
+"25",":Animal","Hawk",,,
+"26",":Animal","Tarantula",,,
+"27",":Animal","Rattlesnake",,,
+,,,"0","1","EATEN_BY"
+,,,"20","21","EATEN_BY"
+,,,"22","23","EATEN_BY"
+,,,"24","25","EATEN_BY"
+,,,"26","27","EATEN_BY"
+,,,"21","27","EATEN_BY"
+,,,"24","23","EATEN_BY"
+,,,"20","23","EATEN_BY"
+,,,"1","26","EATEN_BY"
+,,,"0","23","EATEN_BY"
+,,,"21","25","EATEN_BY"
+,,,"1","25","EATEN_BY"
